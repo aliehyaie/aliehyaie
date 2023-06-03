@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ali Ehyaie!</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1>Hi there! 👋, I'm Ali Ehyaie</h1>
+<br />
+<p>Passionate ReactJS developer building engaging web experiences with JavaScript. 🚀 Committed to crafting elegant and efficient code that brings ideas to life. 💡 Let's collaborate and create stunning user interfaces together! 🌟</p>
+<br />
 
 - 🔭 I’m currently working on **NextJS**
 

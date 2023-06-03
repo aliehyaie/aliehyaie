@@ -20,7 +20,7 @@
 
 ## 📫 Connect with me:
 <div align="left">
-<a target="blank" href="https://www.linkedin.com/in/ali-ehyaie-55038a19a/">
+<a target="blank" href="https://www.linkedin.com/in/ali-ehyaie/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="56" height="30" alt="linkedin logo"  />
   </a>
   <a target="blank" href="https://mail.google.com/mail/u/0/?pli=1#inbox">

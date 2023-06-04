@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I am a fun-loving person**
 
-- 🥅 2023 Goals: Learn more about web3 and Micro front-end
+- 🥅 2023 Goals: Learn more about NodeJS and Micro front-end
 
 ## 📫 Connect with me:
 <div align="left">
